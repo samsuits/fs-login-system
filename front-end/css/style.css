@@ -1,0 +1,25 @@
+form {
+    margin: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    width: 250px;
+}
+
+input {
+    margin: 5px;
+    padding: 5px;
+}
+
+button {
+    margin: 10px;
+    padding: 5px 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+h3 {
+    margin: 5px;
+    padding: 5px;
+}
